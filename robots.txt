@@ -1,6 +1,6 @@
-# Robots.txt for Fox Fundz
-# Website: https://www.foxfundz.com
-# Business loan assistance and funding solutions in India
+# Robots.txt for Nine Growth Consultancy
+# Website: https://www.ninegrowthconsultancy.com
+# Business consultancy, technology, global trade, and investment solutions in India
 
 User-agent: *
 Allow: /
@@ -34,13 +34,9 @@ Disallow: /logs/
 Allow: /css/
 Allow: /js/
 Allow: /images/
-Allow: /fonts/
 
 # Sitemap location
-Sitemap: https://www.foxfundz.com/sitemap.xml
+Sitemap: https://www.ninegrowthconsultancy.com/sitemap.xml
 
-# Crawl-delay (optional - prevents overwhelming the server)
-# Crawl-delay: 1
-
-# Last updated: January 2025
-# Contact: foxfundz@gmail.com for any crawling issues
+# Last updated: February 2026
+# Contact: ninegrowthconsultancy@gmail.com for any crawling issues
